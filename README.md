@@ -45,10 +45,9 @@ I am a passionate software engineer with experience building scalable backend sy
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SreeKalyanReddy&show_icons=true&theme=radical&hide_border=true" alt="SreeKalyanReddy's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeKalyanReddy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![SreeKalyanReddy's Github Stats](https://github-readme-stats.vercel.app/api?username=SreeKalyanReddy&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeKalyanReddy&layout=compact&theme=radical&hide_border=true)
 
 ---
 
