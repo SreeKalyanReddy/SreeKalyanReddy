@@ -42,11 +42,10 @@
 <div align="center">
 </div>
 
-###
+## 🐍 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/sreekalyanreddy/sreekalyanreddy/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/sreekalyanreddy/sreekalyanreddy/output/github-contribution-grid-snake.svg)
 
-###
 
 <br clear="both">
 
