@@ -44,7 +44,7 @@
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/sreekalyanreddy/sreekalyanreddy/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/SreeKalyanReddy/SreeKalyanReddy/output/snake.svg)
 
 
 <br clear="both">
